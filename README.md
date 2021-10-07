@@ -1,6 +1,6 @@
 Its a news app where news, details, pictures and news links are coming from API and when a user click on any news he will go to news link in webview.
 
-<p>The first page contains horizontal list of news categories and the top headline news.</p>
+<p>The first page contains horizontal list of news categories and the top newses headlines.</p>
 <img src="screenshots/show_1.png" width="300" height="580">
 
 <p>The user can see the other category newses by click on other catagories.</p>
